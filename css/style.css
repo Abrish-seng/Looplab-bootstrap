@@ -7,3 +7,24 @@ body{
     border-bottom: #008ed6 3px solid;
     opacity:0.8 ;
 }
+#home-section{
+    background: url(../img/looplab/home.jpg );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height:600px ;
+}
+#home-section .dark-overlay{
+    width: 100%;
+    min-height: 600px;
+    background: rgba(0, 0, 0, 0.7);
+}
+#home-section .card-form{
+    opacity: 0.8;
+}
+#home-section .fas{
+    color: #008ed6;
+    background: #fff;
+    padding: 5px;
+    border-radius: 5px;
+}
