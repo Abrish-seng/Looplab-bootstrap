@@ -39,9 +39,23 @@ main{
 #home-section .home-inner{
     padding: 150px;
 }
-#explore-head-section .fas,#share-head-section .fas{
+#explore-head-section .fas,#share-section .fas{
     background: #333;
     color: #fff;
     padding: 5px;
     border-radius: 5px;
+}
+#create-section{
+    background: #333;
+    color:#fff;
+}
+#create-section .fas{
+    background: #fff;
+    color: #333;
+    border-radius: 5px;
+    padding: 5px;
+}
+#share-section{
+    background: #fff;
+    color: #212529;
 }
