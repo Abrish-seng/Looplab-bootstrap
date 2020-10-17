@@ -4,7 +4,7 @@
     box-sizing: border-box;
 
 }
-body{
+main{
    background: #333;
    color: #fff;
 }
@@ -38,4 +38,10 @@ body{
 }
 #home-section .home-inner{
     padding: 150px;
+}
+#explore-head-section .fas,#share-head-section .fas{
+    background: #333;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
 }
