@@ -63,3 +63,9 @@ footer{
     background: #333;
     color: #fff;
 }
+.social i{
+    font-size: 25px;
+    border-radius: 50%;
+    color: #fff;
+
+}
